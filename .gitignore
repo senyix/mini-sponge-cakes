@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Archivos originales de WhatsApp (ya copiados a images/ con nombres limpios)
+WhatsApp Image*.jpeg
+
+# Editores
+.vscode/
+.idea/
+
+# Logs
+*.log
